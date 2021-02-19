@@ -1,2 +1,2 @@
 # Dance-App
-Info about a bunch of great dancers
+Images for my dance app
